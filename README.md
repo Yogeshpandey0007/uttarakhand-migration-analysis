@@ -108,3 +108,10 @@ The goal of this project is to extract insights from migration-related data and 
 - Bubble size represents MGNREGA dependency, highlighting rural employment reliance across districts.
 - Hill districts demonstrate stronger migration pressure compared to urban districts.
 - Agriculture dependency and rural employment conditions significantly affect migration trends in Uttarakhand.
+- # Conclusion
+
+This project highlights the relationship between migration, employment, education, agriculture dependency, and rural economic conditions in Uttarakhand.
+
+The analysis shows that hill districts experience stronger migration pressure due to employment limitations, educational challenges, declining agricultural productivity, and dependence on government support programs such as MGNREGA.
+
+Using Python-based data analytics and visualization techniques, this project provides meaningful socio-economic insights that can support policy discussions and rural development planning.
