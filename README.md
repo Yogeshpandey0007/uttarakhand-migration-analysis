@@ -98,3 +98,13 @@ The goal of this project is to extract insights from migration-related data and 
 - Haridwar and Udhamsingh Nagar have high employment migration percentages but lower permanent migration counts.
 - Hill districts tend to experience stronger permanent migration patterns.
 - Employment opportunities significantly influence migration behavior across Uttarakhand districts.
+- ## Agriculture Dependency vs Permanent Migration
+
+![Agriculture vs Permanent Migration](agriculture-vs-permanent-migration-bubble-chart.png)
+
+### Key Insights
+- Pauri Garhwal shows very high permanent migration with lower agriculture dependency.
+- Haridwar and Udhamsingh Nagar have high agriculture dependency but lower permanent migration.
+- Bubble size represents MGNREGA dependency, highlighting rural employment reliance across districts.
+- Hill districts demonstrate stronger migration pressure compared to urban districts.
+- Agriculture dependency and rural employment conditions significantly affect migration trends in Uttarakhand.
