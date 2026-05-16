@@ -37,7 +37,11 @@ The goal of this project is to extract insights from migration-related data and 
 ## District-wise Uninhabited Villages Analysis
 
 ![Uninhabited Villages](uninhabited-villages-analysis.png)
+## Rural Migration Insights
 
+- Pauri Garhwal has the highest number of uninhabited villages.
+- Hill districts show stronger migration impact compared to urban districts.
+- Migration is contributing to rural depopulation across Uttarakhand.
 ## District-wise Temporary Migration
 ![District Migration](district-wise-migration-chart.png)
 ## Education-Based Migration Percentage
