@@ -43,3 +43,10 @@ The goal of this project is to extract insights from migration-related data and 
 ## Education-Based Migration Percentage
 
 ![Education Migration](education-migration-percentage.png)
+## Agriculture Dependency Insights
+## Agriculture & Animal Husbandry Dependency Analysis
+
+![Agriculture Dependency](agriculture-dependency-analysis.png)
+- Haridwar and Uttarkashi show high dependence on agriculture and animal husbandry.
+- Pauri Garhwal shows relatively lower dependency compared to other hill districts.
+- Economic dependency on agriculture may influence migration and employment trends.
