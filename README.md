@@ -73,6 +73,23 @@ The goal of this project is to extract insights from migration-related data and 
 
 ![MGNREGA Dependency](mgnrega-dependency-analysis.png)
 
+## Correlation Between Migration, Employment and Rural Economy Indicators
+
+
+### Key Insights
+- Pauri Garhwal shows the highest dependence on MGNREGA employment.
+- Tehri Garhwal and Chamoli also demonstrate strong reliance on MGNREGA schemes.
+- Haridwar and Udhamsingh Nagar have comparatively lower dependence on MGNREGA employment.
+- Rural hill districts rely more on government employment support programs.
+![Correlation Heatmap](migration-correlation-heatmap.png)
+
+### Key Insights
+- Temporary and permanent migration show strong positive correlation across districts.
+- MGNREGA dependency has a high correlation with migration indicators.
+- Employment percentage shows negative correlation with migration trends.
+- Education, health, and infrastructure indicators influence migration patterns significantly.
+- Rural economy indicators are closely connected with migration behavior in Uttarakhand.
+
 ### Key Insights
 - Pauri Garhwal shows the highest dependence on MGNREGA employment.
 - Tehri Garhwal and Chamoli also demonstrate strong reliance on MGNREGA schemes.
