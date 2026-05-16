@@ -34,6 +34,9 @@ The goal of this project is to extract insights from migration-related data and 
 
 ## Temporary vs Permanent Migration
 ![Migration Comparison](temporary-vs-permanent-migration.png)
+## District-wise Uninhabited Villages Analysis
+
+![Uninhabited Villages](uninhabited-villages-analysis.png)
 
 ## District-wise Temporary Migration
 ![District Migration](district-wise-migration-chart.png)
