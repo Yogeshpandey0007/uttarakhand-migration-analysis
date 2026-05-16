@@ -40,7 +40,11 @@ The goal of this project is to extract insights from migration-related data and 
 ## Temporary vs Permanent Migration
 ![Migration Comparison](temporary-vs-permanent-migration.png)
 ## District-wise Uninhabited Villages Analysis
-
+### Key Insights
+- Tehri Garhwal shows the highest temporary migration among all districts.
+- Pauri Garhwal has a comparatively high permanent migration rate.
+- Urban districts such as Haridwar and Udhamsingh Nagar show lower migration compared to hill districts.
+- Temporary migration is significantly higher than permanent migration across most districts.
 ![Uninhabited Villages](uninhabited-villages-analysis.png)
 ## Rural Migration Insights
 
