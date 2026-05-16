@@ -32,6 +32,11 @@ The goal of this project is to extract insights from migration-related data and 
 ## Employment Migration Percentage
 ![Employment Migration](employment-migration-percentage.png)
 
+
+### Key Insights
+- Haridwar and Udhamsingh Nagar show the highest employment migration percentages.
+- Mountain districts like Uttarkashi and Bageshwar show lower migration percentages.
+- Employment opportunities strongly influence migration patterns across Uttarakhand.
 ## Temporary vs Permanent Migration
 ![Migration Comparison](temporary-vs-permanent-migration.png)
 ## District-wise Uninhabited Villages Analysis
