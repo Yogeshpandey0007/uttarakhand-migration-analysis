@@ -68,3 +68,13 @@ The goal of this project is to extract insights from migration-related data and 
 - Haridwar and Uttarkashi show high dependence on agriculture and animal husbandry.
 - Pauri Garhwal shows relatively lower dependency compared to other hill districts.
 - Economic dependency on agriculture may influence migration and employment trends.
+
+- ## Dependence on MGNREGA Employment
+
+![MGNREGA Dependency](mgnrega-dependency-analysis.png)
+
+### Key Insights
+- Pauri Garhwal shows the highest dependence on MGNREGA employment.
+- Tehri Garhwal and Chamoli also demonstrate strong reliance on MGNREGA schemes.
+- Haridwar and Udhamsingh Nagar have comparatively lower dependence on MGNREGA employment.
+- Rural hill districts rely more on government employment support programs.
