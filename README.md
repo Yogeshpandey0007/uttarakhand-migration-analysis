@@ -89,3 +89,12 @@ The goal of this project is to extract insights from migration-related data and 
 - Employment percentage shows negative correlation with migration trends.
 - Education, health, and infrastructure indicators influence migration patterns significantly.
 - Rural economy indicators are closely connected with migration behavior in Uttarakhand.
+- ## Relationship Between Employment Migration and Permanent Migration
+
+![Employment vs Permanent Migration](employment-vs-permanent-migration-scatterplot.png)
+
+### Key Insights
+- Pauri Garhwal and Tehri Garhwal show high permanent migration despite moderate employment migration percentages.
+- Haridwar and Udhamsingh Nagar have high employment migration percentages but lower permanent migration counts.
+- Hill districts tend to experience stronger permanent migration patterns.
+- Employment opportunities significantly influence migration behavior across Uttarakhand districts.
