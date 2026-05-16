@@ -37,3 +37,6 @@ The goal of this project is to extract insights from migration-related data and 
 
 ## District-wise Temporary Migration
 ![District Migration](district-wise-migration-chart.png)
+## Education-Based Migration Percentage
+
+![Education Migration](education-migration-percentage.png)
