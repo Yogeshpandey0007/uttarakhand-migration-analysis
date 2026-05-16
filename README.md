@@ -37,3 +37,6 @@ uttarakhand-migration-analysis/
 ├── data/
 ├── images/
 └── .gitignore
+### Temporary vs Permanent Migration Comparison
+
+![Migration Comparison](images/temporary-vs-permanent-migration.png)
