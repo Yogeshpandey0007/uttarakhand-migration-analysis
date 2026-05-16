@@ -27,16 +27,13 @@ The goal of this project is to extract insights from migration-related data and 
 
 ---
 
-## Project Structure
+# Project Visuals
 
-```text
-uttarakhand-migration-analysis/
-│
-├── uttarakhand-migration-analysis.ipynb
-├── README.md
-├── data/
-├── images/
-└── .gitignore
-### Temporary vs Permanent Migration Comparison
+## Employment Migration Percentage
+![Employment Migration](employment-migration-percentage.png)
 
-![Migration Comparison](images/temporary-vs-permanent-migration.png)
+## Temporary vs Permanent Migration
+![Migration Comparison](temporary-vs-permanent-migration.png)
+
+## District-wise Temporary Migration
+![District Migration](district-wise-migration-chart.png)
