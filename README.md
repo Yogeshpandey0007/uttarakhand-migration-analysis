@@ -47,6 +47,11 @@ The goal of this project is to extract insights from migration-related data and 
 ## Education-Based Migration Percentage
 
 ![Education Migration](education-migration-percentage.png)
+## Educational Migration Insights
+
+- Chamoli and Pithoragarh show high education-driven migration.
+- Haridwar and Udhamsingh Nagar have lower education migration percentages.
+- Lack of higher education infrastructure in hill districts may contribute to migration trends.
 ## Agriculture Dependency Insights
 ## Agriculture & Animal Husbandry Dependency Analysis
 
