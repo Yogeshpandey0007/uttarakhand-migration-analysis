@@ -89,9 +89,3 @@ The goal of this project is to extract insights from migration-related data and 
 - Employment percentage shows negative correlation with migration trends.
 - Education, health, and infrastructure indicators influence migration patterns significantly.
 - Rural economy indicators are closely connected with migration behavior in Uttarakhand.
-
-### Key Insights
-- Pauri Garhwal shows the highest dependence on MGNREGA employment.
-- Tehri Garhwal and Chamoli also demonstrate strong reliance on MGNREGA schemes.
-- Haridwar and Udhamsingh Nagar have comparatively lower dependence on MGNREGA employment.
-- Rural hill districts rely more on government employment support programs.
